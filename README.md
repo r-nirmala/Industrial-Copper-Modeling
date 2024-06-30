@@ -1,5 +1,4 @@
 ## Industrial-Copper-Modeling
-### Introduction
 
 The Industrial Copper Modelling project focuses on utilising machine learning regression and classification algorithms to predict the selling price and status (won or lost) in the industrial copper market.The models have been constructed that can very well predict the selling price and status in the copper market through dataset exploration, data cleaning and preprocessing, and application of various machine learning techniques.
 
